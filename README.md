@@ -1,5 +1,3 @@
-<img src="https://www.tourprom.ru/site_media/uploads/средневековые-города-3.jpg" height="150px">
-
 # CityDirectory
 
 Java console Application which contains code examples for reading files, sorting strings 🚀
@@ -10,6 +8,8 @@ Source code for study purposes only 💰
 * Strings
 * Comparator
 
+
+<img src="https://www.tourprom.ru/site_media/uploads/средневековые-города-3.jpg" height="150px">
 ---
 ### Features
 
