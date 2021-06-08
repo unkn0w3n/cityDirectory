@@ -8,8 +8,6 @@ Source code for study purposes only 💰
 * Strings
 * Comparator
 
-
-<img src="https://www.tourprom.ru/site_media/uploads/средневековые-города-3.jpg" height="150px">
 ---
 ### Features
 
