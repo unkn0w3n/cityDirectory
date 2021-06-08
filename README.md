@@ -1,4 +1,4 @@
-<img src="https://www.tourprom.ru/site_media/uploads/средневековые-города-3.jpg">
+<img src="https://www.tourprom.ru/site_media/uploads/средневековые-города-3.jpg" max-height="100px">
 
 # CityDirectory
 
